@@ -1,7 +1,7 @@
 {
-  "name": "@rwxmad/library-template",
+  "name": "@rwxmad/rootgraph",
   "version": "0.0.0",
-  "description": "library",
+  "description": "Editable nodes graph UI",
   "type": "module",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -19,10 +19,10 @@
     "name": "rwxmad",
     "email": "rwxmad@gmail.com"
   },
-  "homepage": "https://github.com/rwxmad/library-template",
+  "homepage": "https://github.com/rwxmad/rootgraph",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rwxmad/library-template"
+    "url": "https://github.com/rwxmad/rootgraph"
   },
   "license": "MIT",
   "devDependencies": {

@@ -1,13 +1,14 @@
-# `<library>`
+# `rootgraph`
+> Editable nodes graph UI
 
 ## Installation
 
 ```bash
-npm install <library>
+npm install @rwxmad/rootgraph
 ```
 
 ## Usage
 
 ```typescript
-import <library> from '@rwxmad/<library>';
+import rootgraph from '@rwxmad/rootgraph';
 ```
